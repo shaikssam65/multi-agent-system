@@ -1,4 +1,4 @@
-# 🎤 Live Nation — Multi-Agent AI Event Planning System
+# 🎤  Multi-Agent AI Event Planning System
 
 > A stateful, production-grade multi-agent AI system that turns fragmented event data into reliable, explainable planning decisions.
 
