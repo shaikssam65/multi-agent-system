@@ -297,7 +297,7 @@ When complexity increased, we added new agents and extended workflows — we did
 | Layer | Technology |
 |---|---|
 | Orchestration | LangGraph |
-| LLM | Claude / GPT-4 |
+| LLM | Claude Sonnet 4.5 |
 | Structured data | SQL (Databricks) |
 | Semantic search | Vector DB + re-ranking |
 | State persistence | PostgreSQL |
@@ -321,7 +321,3 @@ It's about:
 The model is ~20% of the work. The infrastructure around it is the other 80%.
 
 ---
-
-## 🚀 One-liner
-
-> A stateful, multi-agent system that turned fragmented event data into reliable, explainable planning decisions — production-ready with proper orchestration, concurrency handling, and failure recovery.
