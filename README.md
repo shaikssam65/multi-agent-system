@@ -321,3 +321,8 @@ It's about:
 The model is ~20% of the work. The infrastructure around it is the other 80%.
 
 ---
+
+Disclosure
+
+The system design, architecture decisions, agent logic, and all technical implementation are my own work.
+AI wes used to assist with formatting, structuring, and writing this documentation.
